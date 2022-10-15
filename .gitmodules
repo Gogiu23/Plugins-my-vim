@@ -1,3 +1,6 @@
 [submodule "fzf2"]
 	path = fzf2
 	url = https://github.com/junegunn/fzf.vim.git
+[submodule "NerdTree"]
+	path = NerdTree
+	url = git@github.com:preservim/nerdtree.git
