@@ -1,0 +1,3 @@
+[submodule "fzf2"]
+	path = fzf2
+	url = https://github.com/junegunn/fzf.vim.git
