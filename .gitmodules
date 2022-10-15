@@ -13,3 +13,6 @@
 [submodule "stheader"]
 	path = stheader
 	url = git@github.com:42Paris/42header.git
+[submodule "vim_devicons"]
+	path = vim_devicons
+	url = git@github.com:ryanoasis/vim-devicons.git
