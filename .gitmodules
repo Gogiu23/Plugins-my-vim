@@ -7,3 +7,6 @@
 [submodule "fzf"]
 	path = fzf
 	url = git@github.com:junegunn/fzf.git
+[submodule "ale"]
+	path = ale
+	url = git@github.com:dense-analysis/ale.git
