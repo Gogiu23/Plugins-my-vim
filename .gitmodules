@@ -10,3 +10,6 @@
 [submodule "ale"]
 	path = ale
 	url = git@github.com:dense-analysis/ale.git
+[submodule "stheader"]
+	path = stheader
+	url = git@github.com:42Paris/42header.git
