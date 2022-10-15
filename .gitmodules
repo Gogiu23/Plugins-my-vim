@@ -1,5 +1,5 @@
-[submodule "fzf2"]
-	path = fzf2
+[submodule "fzf_vim"]
+	path = fzf_vim
 	url = https://github.com/junegunn/fzf.vim.git
 [submodule "NerdTree"]
 	path = NerdTree
