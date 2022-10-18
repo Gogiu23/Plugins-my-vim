@@ -16,3 +16,6 @@
 [submodule "vim_devicons"]
 	path = vim_devicons
 	url = git@github.com:ryanoasis/vim-devicons.git
+[submodule "colorschemes"]
+	path = colorschemes
+	url = git@github.com:vim/colorschemes.git
