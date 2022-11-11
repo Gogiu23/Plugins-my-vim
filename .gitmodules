@@ -19,3 +19,6 @@
 [submodule "colorschemes"]
 	path = colorschemes
 	url = git@github.com:vim/colorschemes.git
+[submodule "vim-plug"]
+	path = vim-plug
+	url = git@github.com:junegunn/vim-plug.git
